@@ -14,6 +14,13 @@ Notes:
   **device** variables are replaced when building the project - others will take
   default values if unspecified.
 
+
+## Prerequisites
+* MPLAB® X IDE *>=6.00* (https://microchip.com/mplab/mplab-x-ide)
+* XCode *>=12.0* (https://developer.apple.com/xcode/)
+* Edge Impulse CLI (https://github.com/edgeimpulse/edge-impulse-cli)
+* Edge Impulse Stand-alone Inferencing (C++) (https://github.com/edgeimpulse/example-standalone-inferencing) 
+
 ## Software Used
 * MPLAB® X IDE *>=6.00* (https://microchip.com/mplab/mplab-x-ide)
 
