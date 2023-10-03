@@ -46,7 +46,7 @@ The following steps cover compiling the Edge Impulse library into a static libra
 
 2. (Optional) Open `options.ini` and modify as needed.
 
-3. Set the environment variables `MPLABX_VERSION XC_VERSION XC_NUMBER_BITS` as
+3. Set the environment variables for MPLAB IDE Version`MPLABX_VERSION` XCode Version: `XC_VERSION` `XC_NUMBER_BITS` as
    desired, then run `build.sh` to generate the library object. For example:
 
    ```bash
