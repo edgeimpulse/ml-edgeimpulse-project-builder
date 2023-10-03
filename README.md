@@ -19,7 +19,10 @@ Notes:
 * MPLAB® X IDE *>=6.00* (https://microchip.com/mplab/mplab-x-ide)
 * XCode *>=12.0* (https://developer.apple.com/xcode/)
 * Edge Impulse CLI (https://github.com/edgeimpulse/edge-impulse-cli)
-* Edge Impulse Stand-alone Inferencing (C++) (https://github.com/edgeimpulse/example-standalone-inferencing) 
+* Edge Impulse Stand-alone Inferencing (C++) (https://github.com/edgeimpulse/example-standalone-inferencing)
+* Docker (https://www.docker.com/)
+* Docker Compose (https://docs.docker.com/compose/)
+* Python *>=3.6* (https://www.python.org/downloads/)
 
 ## Software Used
 * MPLAB® X IDE *>=6.00* (https://microchip.com/mplab/mplab-x-ide)
