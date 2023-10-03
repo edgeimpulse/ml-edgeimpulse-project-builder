@@ -35,7 +35,7 @@ The first step in building an MPLAB project for Edge Impulse is of course to dep
 2. Click on the *Deployment* step in the sidebar menu.
 
 3. Under *Create Library* select *C++ library*, then click *Build* to download
-   the library.
+   the library, later used in the Edge Impulse SDK Build Instructions as libedgeimpulse.
 
    ![Add library object](assets/deploy.png)
 
